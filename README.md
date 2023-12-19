@@ -48,7 +48,7 @@ usei como base o vídeo desse mano: [Josean](https://youtu.be/6mxWayq-s9I?si=U9O
 ```
 ## Plugins
 > [!NOTE]
-> Plugin manager: [[lazy.nvim]]
+> Plugin manager: [lazy.nvim](https://github.com/folke/lazy.nvim)
 
 Esses são os plugins que estão na pasta **lua** 
   *     "neovim/nvim-lspconfig"
