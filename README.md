@@ -1,9 +1,16 @@
-# Estrutura do projeto
+# Minha config pessoal do neovim
+Essa é foi a minha primeira tenativa de fazer uma config pro neovim,
+usei como base o vídeo desse mano: [Josean](https://youtu.be/6mxWayq-s9I?si=U9OQcnCpg1eNsqnZ)
 
+> [!WARNING]
+> Lembrando que essa é meu setup **pessoal**
+
+## Estrutura do projeto
+```
 📁 .git
 📂 lua
-   📂 vt
-     📂 core
+  📂 vt
+    📂 core
     │ │ ⚙️ init.lua
     │ │ ⚙️ keymaps.lua
     │ └ ⚙️ options.lua
@@ -38,3 +45,4 @@
   🐱 .gitignore
    ⚙️ init.lua
    📄 lazy-lock.json
+```
