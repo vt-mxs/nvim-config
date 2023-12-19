@@ -52,7 +52,7 @@ Esses são os plugins que estão na pasta **lua**
   *     "williamboman/mason.nvim"
   *     "goolord/alpha-nvim"
   *     "akinsho/bufferline.nvim"
-  * 	  "NvChad/nvim-colorizer.lua"
+  *     "NvChad/nvim-colorizer.lua"
   *     "numToStr/Comment.nvim"
   *     "github/copilot.vim"
   *     "stevearc/dressing.nvim"
@@ -72,7 +72,3 @@ Esses são os plugins que estão na pasta **lua**
   *     "akinsho/toggleterm.nvim"
   * 	  "xiyaowong/transparent.nvim"
   *     "nvim-treesitter/nvim-treesitter-textobjects"
-
-
-
-
