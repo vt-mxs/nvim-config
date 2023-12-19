@@ -48,8 +48,31 @@ usei como base o vídeo desse mano: [Josean](https://youtu.be/6mxWayq-s9I?si=U9O
 ```
 ## Plugins
 Esses são os plugins que estão na pasta **lua** 
-  * "neovim/nvim-lspconfig"
-  * "williamboman/mason.nvim"
-  * "goolord/alpha-nvim"
-  * "akinsho/bufferline.nvim",
-  * 	"NvChad/nvim-colorizer.lua",
+  *     "neovim/nvim-lspconfig"
+  *     "williamboman/mason.nvim"
+  *     "goolord/alpha-nvim"
+  *     "akinsho/bufferline.nvim"
+  * 	  "NvChad/nvim-colorizer.lua"
+  *     "numToStr/Comment.nvim"
+  *     "github/copilot.vim"
+  *     "stevearc/dressing.nvim"
+  * 	  "stevearc/conform.nvim"
+  *     "nvim-lualine/lualine.nvim",
+  *     "nvim-tree/nvim-web-devicons"
+  * 	  "lukas-reineke/indent-blankline.nvim"
+  *     "rebelot/kanagawa.nvim"
+  *     "folke/which-key.nvim"
+  *     "nvim-lualine/lualine.nvim"
+  *     "folke/neodev.nvim"
+  *     "nvimtools/none-ls.nvim"
+  *     "hrsh7th/nvim-cmp"
+  *     "nvim-tree/nvim-tree.lua"
+  *     "windwp/nvim-autopairs"
+  * 	  "nvim-telescope/telescope.nvim"
+  *     "akinsho/toggleterm.nvim"
+  * 	  "xiyaowong/transparent.nvim"
+  *     "nvim-treesitter/nvim-treesitter-textobjects"
+
+
+
+
