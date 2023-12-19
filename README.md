@@ -56,7 +56,7 @@ Esses são os plugins que estão na pasta **lua**
   *     "numToStr/Comment.nvim"
   *     "github/copilot.vim"
   *     "stevearc/dressing.nvim"
-  * 	  "stevearc/conform.nvim"
+  *     "stevearc/conform.nvim"
   *     "nvim-lualine/lualine.nvim",
   *     "nvim-tree/nvim-web-devicons"
   *     "lukas-reineke/indent-blankline.nvim"
