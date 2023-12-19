@@ -46,3 +46,7 @@ usei como base o vídeo desse mano: [Josean](https://youtu.be/6mxWayq-s9I?si=U9O
    ⚙️ init.lua
    📄 lazy-lock.json
 ```
+## Plugins
+a
+  a
+  a
