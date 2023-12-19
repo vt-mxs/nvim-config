@@ -59,7 +59,7 @@ Esses são os plugins que estão na pasta **lua**
   * 	  "stevearc/conform.nvim"
   *     "nvim-lualine/lualine.nvim",
   *     "nvim-tree/nvim-web-devicons"
-  * 	  "lukas-reineke/indent-blankline.nvim"
+  *     "lukas-reineke/indent-blankline.nvim"
   *     "rebelot/kanagawa.nvim"
   *     "folke/which-key.nvim"
   *     "nvim-lualine/lualine.nvim"
