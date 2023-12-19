@@ -1,5 +1,5 @@
 # Estrutura do projeto
-```
+
 📁 .git
 📂 lua
    📂 vt
@@ -38,4 +38,3 @@
   🐱 .gitignore
    ⚙️ init.lua
    📄 lazy-lock.json
-```
