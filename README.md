@@ -47,6 +47,6 @@ usei como base o vídeo desse mano: [Josean](https://youtu.be/6mxWayq-s9I?si=U9O
    📄 lazy-lock.json
 ```
 ## Plugins
-a
-  a
-  a
+("neovim/nvim-lspconfig")
+("williamboman/mason.nvim")
+("goolord/alpha-nvim")
