@@ -4,6 +4,7 @@ usei como base o vídeo desse mano: [Josean](https://youtu.be/6mxWayq-s9I?si=U9O
 
 > [!WARNING]
 > Lembrando que essa é meu setup **pessoal**
+> (recomendado não clona esse não repósitorio direto, pra evitar erros de configuração)
 
 ## Estrutura do projeto
 ```
